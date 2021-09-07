@@ -1,0 +1,6 @@
+[submodule "themes/sunbox"]
+	path = themes/sunbox
+	url = https://github.com/finn-e/sunbox-theme-hugo.git
+[submodule "themes/notepadium"]
+	path = themes/notepadium
+	url = https://github.com/finn-e/hugo-notepadium.git
